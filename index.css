@@ -5,3 +5,12 @@ h1 {
     width: 14rem;
     text-align: center;
 }
+
+h2 {
+    background-color: transparent;
+    border: 1px solid black;
+    margin: auto;
+    width: 10rem;
+    text-align: center;
+    box-shadow: 4px 4px 4px 4px rgb(83, 83, 83);
+}
